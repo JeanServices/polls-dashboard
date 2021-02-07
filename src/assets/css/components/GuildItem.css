@@ -1,0 +1,70 @@
+.guild-for-guilds-page-mYznIq {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: #23272A;
+    margin-bottom: 5vh;
+    max-height: 200px;
+    height: 150px;
+    width: 20%;
+    max-width: 20%;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 3%;
+}
+
+.guild-for-guilds-page-mYznIq:hover {
+    background-color: #1a1d20;
+}
+
+.guild-for-guilds-page-mYznIq-floating-to-left-xUsdm-img-guild-xYF {
+
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 15px;
+    display:inline-block;
+}
+
+.guild-for-guilds-page-mYznIq-floating-to-left-xUsdm-img-DUfy-to-left {
+    float: left;
+    margin-top: 10px;
+}
+
+.guild-for-guilds-page-mYznIq-floating-to-left-xUsdm-text {
+    float: right;
+    color: #ffffff;
+    margin-right: 25px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+.guilds-guild-data-XdyCm {
+    margin-top: 25px;
+    width: 100%;
+}
+
+#guilds-guild-ID-xYDmDS {
+    color: #bbbbbb;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#guilds-button-invite-usXYTdm {
+    margin-top: 25px;
+    border: 0;
+    border-radius: 100px;
+    background-color: #49ad70;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    padding: 5px 20px;
+    color: #ffffff;
+}
+
+@media screen and (max-width: 750px) {
+    .guild-for-guilds-page-mYznIq {
+        width: 100%;
+        max-width: 99%;
+    }
+}

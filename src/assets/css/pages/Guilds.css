@@ -1,0 +1,23 @@
+.guilds-page-UxcyDM {
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 7%;
+    margin-right: 10%;
+}
+
+.guilds-page-select-some-discord-server-title-XudyM {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.guilds-page-header-SxSudO {
+    margin-bottom: 10vh;
+}
+
+@media screen and (max-width: 520px) {
+    .guilds-page-UxcyDM {
+        width: 99%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}

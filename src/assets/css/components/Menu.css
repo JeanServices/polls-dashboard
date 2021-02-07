@@ -1,0 +1,91 @@
+.menu-xiXYdm {
+    background-color: #23272A;
+    width: 100%;
+    top: 0;
+    padding: 0;
+    height: 60px;
+    position: fixed;
+    color: #ffffff;
+}
+
+.menu-xiXYdm-content-XDdyM {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+/* Left */
+
+.menu-xiXYdm-brand-banner-Xufym {
+    margin-top: -15px;
+    margin-left: 7.5px;
+}
+
+#menu-polls-banner-text-SUcyM {
+    letter-spacing: 5px;
+    text-decoration: none;
+}
+
+#menu-polls-banner-text-SUcyM:hover {
+    cursor: pointer;
+}
+
+/* Right */
+
+.menu-xiXYdm-items-floating-to-right-Xufdym {
+    position: absolute;
+    right: 10%;
+    margin-top: -65px;
+}
+
+
+.menu-xiXYdm-item-xUSFm {
+    font-weight: 600;
+    font-size: 16px;
+    font-style: normal;
+    color: #e7e7e7;
+    text-decoration: none;
+    margin-top: 9px;
+    right: 0;
+}
+
+.menu-xiXYdm-item-xUSFm:hover {
+    cursor: pointer;
+    color: #ffcafb;
+}
+
+.menu-xiXYdm-item-xUSFm-next-xSU {
+    margin-right: 15px;
+}
+
+.sign-in-button-on-menu-xSUusdM {
+    color: #ffffff;
+    font-size: 14px;
+    background-color: #ff7eff;
+    border: 0;
+    padding: 12px 27px;
+    border-radius: 100px;
+    font-weight: bold;
+    position: relative;
+    margin-top: -10px;
+}
+
+.sign-in-button-on-menu-xSUusdM:hover {
+    color: #e9e9e9;
+}
+
+nav a{
+    text-decoration:none;
+    color:inherit;
+    font-size:14px;
+    display:inline-block;
+    width:10%;
+    padding:5px 10px;
+    background-color:#000;
+    border:1px solid #000;
+    text-align:center;
+    color:#fff;
+} 
+nav a:hover{
+    background-color:#fff;
+    color:#000;
+}
